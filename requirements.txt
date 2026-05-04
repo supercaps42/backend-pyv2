@@ -1,8 +1,6 @@
-tensorflow-cpu==2.15.0
-keras==2.15.0
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-python-multipart==0.0.6
-Pillow==10.1.0
-numpy==1.26.4
-gunicorn==21.2.0
+tensorflow-cpu
+fastapi
+uvicorn
+python-multipart
+Pillow
+numpy
